@@ -1,0 +1,6 @@
+Pada praktikum kali ini, melakukan percobaan dengan konsep dasar Deep Learning dalam sistem kendali, dan diimplementasikan pada  Convolutional Neural Network (CNN) untuk klasifikasi objek. 
+Percobaan ini dapat mengenali objek dalam 6 kelas yang berbeda seperti sea, mountain, street, forest, building dan Glacier dengan menggunakan model CNN serta data yang dilatih pada dataset, dimana dataset diperoleh dari kaggle.
+Program ini menampilkan 2 jendela yang berbeda, pada jendela pertama frame mengidentifikasi gambar asli dari kamera dengan hasil prediksi yang diberi label pada layar.
+Jendela kedua menggunakan fitur Night Vision yang mana menampilkan gambar yang sama namun dalam mode visual alternatif colormap. 
+Selain itu, akurasi dari model dipengaruhi oleh bebearapa faktor eksternal, seperti intensitas cahaya yang belebih maupun redup, kualitas kamera, serta latar belakang dan sudut pengambilan gambar. Objek yang dideteksi harus terlihat jelas pada kamera agar dapat dideteksi dengan mudah. 
+Sinyal internet juga dapat mempengaruhi penginstalan PIP sehingga akan memperlambat proses running.
